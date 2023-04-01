@@ -6,6 +6,7 @@ This is a list of "all" resources that are needed to extend WordPress as develop
 
 - **[WordPress Developer Resources](https://developer.wordpress.org/)** - Official developer documentation from the WordPress team.
 - **[WordPress on Stack Exchange](https://wordpress.stackexchange.com/)** - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It only takes a minute to sign up.
+- **[Official Docker image](https://hub.docker.com/_/wordpress)** - The official docker image for local development including docker-compose file with mysql and webserver.
 
 ## Plugin development in general
 
