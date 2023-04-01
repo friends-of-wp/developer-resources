@@ -2,6 +2,10 @@
 
 This is a list of "all" resources that are needed to extend WordPress as developers. This compilation is of course not complete and needs the community to grow. That is why pull requests are very welcome. 
 
+## Development in general
+
+- **[WordPress Developer Resources](https://developer.wordpress.org/)** - Official developer documentation from the WordPress team.
+
 ## Plugins
 
 - **[WordPress.org plugin directory](https://wordpress.org/plugins/)** - The official WordPress plugin directory. For every plugin developer it should be the goal to be listed in this directory as it is the number #1 source for plugin installations.
