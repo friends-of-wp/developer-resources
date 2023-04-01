@@ -5,6 +5,7 @@ This is a list of "all" resources that are needed to extend WordPress as develop
 ## Development in general
 
 - **[WordPress Developer Resources](https://developer.wordpress.org/)** - Official developer documentation from the WordPress team.
+- **[WordPress on Stack Exchange](https://wordpress.stackexchange.com/)** - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It only takes a minute to sign up.
 
 ## Plugin development in general
 
